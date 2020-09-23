@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Sanchit Burkule
-- 🔭 I’m currently working on data aggregation at [Frontier Markets](https://frontiermkts.com/)
+- 🔭 I’m currently working in data team at [Frontier Markets](https://frontiermkts.com/)
 - 🌱 I’m currently learning Hadoop and various libraries (Spark, Hive, Pig)
 - 👯 I’m looking to collaborate on Open source projects and Kaggle competitions
 - 📫 How to reach me: [email](mailto:sanchitburkule@gmail.com)
