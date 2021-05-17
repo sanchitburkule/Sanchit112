@@ -1,4 +1,11 @@
 ### 👋 Hi, I'm Sanchit Burkule
+
+![](https://komarev.com/ghpvc/?username=Sanchit112&color=red&style=flat)
+![Visits Badge](https://badges.pufler.dev/visits/rudrabarad/rudrabarad/?color=red)
+![Repos Badge](https://badges.pufler.dev/repos/rudrabarad/?color=red)
+![Years Badge](https://badges.pufler.dev/years/rudrabarad/?color=red)
+
+
 - 🔭 I’m currently working in data team at [Numadic](https://numadic.com/)
 - 🌱 I’m currently learning Hadoop and various libraries (Spark, Hive, Pig)
 - 👯 I’m looking to collaborate on Open source projects
