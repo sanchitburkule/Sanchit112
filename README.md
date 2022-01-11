@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently a graduate student at [USC Viterbi](https://viterbischool.usc.edu)
-- 🌱 I’m currently learning Hadoop and various libraries (Spark, Hive, Pig)
+- 🌱 I’m currently learning Spark and various libraries
 - 👯 I’m looking to collaborate on Open source projects
 - 📫 [How to reach me](http://calendly.com/sanchitburkule)
 
