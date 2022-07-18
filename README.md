@@ -9,7 +9,7 @@
 - 🔭 I’m currently a graduate student at [USC Viterbi](https://viterbischool.usc.edu)
 - 🌱 I’m currently learning Spark and various libraries
 - 👯 I’m looking to collaborate on Open source projects
-- 📫 [How to reach me](http://calendly.com/sanchitburkule)
+- 📫 [How to reach me](emailto:sanchitburkule@gmail.com)
 
 I am an accomplished, business savvy professional with robust experience acquired over multiple internships, solution driven and result-oriented software developer with an analytical mindset and the ability to learn things quickly. Skilled in analyzing unstructured, complex data sets to draw significant insights and train machine learning models on them. Provide technical expertise in data storage structures, data mining, and data cleansing
 
